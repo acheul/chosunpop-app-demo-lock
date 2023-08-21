@@ -12,4 +12,4 @@ A short video is a very ligtly implemented demo version of the app proposed here
 https://github.com/acheul/chosunpop-app-lock/assets/72500819/13ec2e73-77cd-4d77-b0da-4ec51141e79d
 
 
-<img src="./looks/logic.png" width="1075px" height="584px" title="logic">
+<img src="./looks/logic_flow.png" width="1075px" height="584px" title="logic">
