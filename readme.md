@@ -9,7 +9,7 @@ A short video is a very ligtly implemented demo version of the app proposed here
 
 
 ##
-https://github.com/acheul/chosunpop-app-lock/assets/72500819/13ec2e73-77cd-4d77-b0da-4ec51141e79d
+https://github.com/acheul/chosunpop-app-lock/assets/72500819/60cf893f-be32-4118-b001-ec9d469912fe
 
 
 <img src="./looks/logic_flow.png" width="1075px" height="584px" title="logic">
